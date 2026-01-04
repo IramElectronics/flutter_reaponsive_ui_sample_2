@@ -76,6 +76,7 @@ Widget build(BuildContext context) {
     },
   );
 }
+```
 
 ### 2. Widget Abstraction & Reusability
 To maintain clean code (DRY Principles), I abstracted UI components that are shared across layouts but behave differently.

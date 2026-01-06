@@ -1,8 +1,6 @@
 
 <div align="center">
 
-  <img src="assets/icon/responsive_icon.png" alt="Logo" width="100" height="100">
-
   <h1 align="center">Responsive UI & Layout Architecture</h1>
 
   <p align="center">

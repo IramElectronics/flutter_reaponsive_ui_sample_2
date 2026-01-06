@@ -49,7 +49,7 @@ Instead of scaling widgets up, the app utilizes **Layout Branching** to render e
         <i>Nav Rail & Split View</i>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/500x350.png?text=Desktop" width="350" alt="Desktop View">
+        <img width="1260" height="766" alt="Desktop View" src="https://github.com/user-attachments/assets/6eae197d-e288-493f-b148-7a0457524f4e" />
         <br />
         <i>Sidebar & Expanded Grid</i>
       </td>

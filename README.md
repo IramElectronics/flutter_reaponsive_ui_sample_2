@@ -39,7 +39,7 @@ Instead of scaling widgets up, the app utilizes **Layout Branching** to render e
     <tr>
       <!-- REPLACE WITH YOUR IMAGES -->
       <td align="center">
-        <img src="https://via.placeholder.com/200x400.png?text=Mobile" width="160" alt="Mobile View">
+        <img width="410" height="770" alt="Mobile View" src="https://github.com/user-attachments/assets/ee164766-d6f5-4c24-b49a-a67dc0a78c24" />
         <br />
         <i>Drawer & ListView</i>
       </td>
